@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = "rails_session_key_rotator"
   spec.version       = "0.0.3"
   spec.authors       = ["Steve Hodgkiss"]
-  spec.email         = ["steve@hodgkiss.me"]
+  spec.email         = ["pputa03@gmail.com"]
   spec.summary       = %q{Graceful session key rotation for the signed cookie store in Rails 3.}
   spec.description   = %q{}
   spec.homepage      = "https://github.com/envato/rails_session_key_rotator"
